@@ -23,12 +23,14 @@ h1{
   font-size: 30px;
   margin-bottom: 10px;
   font-family:Cosmic;
+  color: wheat;
   
 }
 .answers {
   margin-bottom: 20px;
   text-align: left;
   display: inline-block;
+  color: white;
 }
 .answers label{
   display: block;
